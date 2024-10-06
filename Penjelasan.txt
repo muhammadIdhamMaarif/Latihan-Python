@@ -1,0 +1,13 @@
+#1 	  list_angka = []		bikin list
+#2	
+#3	   while True          		      Forever Loop
+#4 	  angka = int(input())		      Menerima masukan integer dari user
+#5
+#6   	if angka > 0		            	Cek apakah angka > 0
+#7 	  jika angka > 0,               masukan angka ke list	
+#8 	  jika angka < 0, maka print	
+#9   	break			                    Keluar dari forever loop
+#10 	else		                    	(angka == 0 berarti)
+#11	  print
+#12
+#13	  print list
